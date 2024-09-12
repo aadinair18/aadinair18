@@ -4,7 +4,7 @@ I'm **Aaditya Nair**, a **Data Science Enthusiast**. I'm passionate about **Mach
 
 **Here's a bit about me:**
 * **Skills:** Python , C++ , SQL , Excel.
-* **Interests:** Football , Meditation , movies.
+* **Interests:** Football , Meditation , travelling.
 
 **Let's connect!**
 * **Email:** aadityanair1803@gmail.com
