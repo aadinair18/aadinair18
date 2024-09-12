@@ -8,7 +8,7 @@ I'm **Aaditya Nair**, a **Data Science Enthusiast**. I'm passionate about **Mach
 
 **Let's connect!**
 * **Email:** aadityanair1803@gmail.com
-* **LinkedIn:** [https://www.linkedin.com/in/aaditya-nair-8b8a59251?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIgE83n4IQUqhq2bZBCwqUA%3D%3D]
+* **LinkedIn:** https://www.linkedin.com/in/aaditya-nair-8b8a59251?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIgE83n4IQUqhq2bZBCwqUA%3D%3D
 
 **Feel free to reach out if you have any questions or want to collaborate!**
 
