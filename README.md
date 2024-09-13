@@ -12,7 +12,7 @@ I'm **Aaditya Nair**, a **Data Science Enthusiast**. I'm passionate about **Mach
 
 **Feel free to reach out if you have any questions or want to collaborate!**
 
-[![Michael Scott ](https://github.com/user-attachments/assets/af8eb936-351e-4c01-965b-042cb726030d)]
+![Michael Scott ](https://github.com/user-attachments/assets/af8eb936-351e-4c01-965b-042cb726030d)
 
 <!---
 aadinair18/aadinair18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
