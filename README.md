@@ -3,7 +3,7 @@
 I'm **Aaditya Nair**, a **Data Science Enthusiast**. I'm passionate about **Machine Learning**. 
 
 **Here's a bit about me:**
-* **Skills:** C++, R, SQL, Python, Excel, RPA.
+* **Skills:** Python, R, SQL, C++, Excel, RPA.
 * **Interests:** Football , Meditation , travelling.
 
 **Let's connect!**
