@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Aaditya Nair**, a **Data Science Enthusiast**. I'm passionate about **Machine Learning**. 
+I'm **Aaditya Nair**, a **Software Engineering and Data Science Enthusiast**. I'm passionate about **bridging the gap between data and it's sources, thereby creating effective systems and structures**. 
 
 **Here's a bit about me:**
 * **Skills:** Python, R, SQL, C++, Excel, RPA.
