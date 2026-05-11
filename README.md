@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Aaditya Nair**, a **Software Engineering and Data Science Enthusiast**. I'm passionate about **bridging the gap between data and it's sources, thereby creating effective systems and structures**. 
+I'm **Aaditya Nair**, a **Software Engineering and Data Science Enthusiast**. I'm passionate about **bridging the gap between data and business, thereby creating scaleable systems and structures**. 
 
 **Here's a bit about me:**
 * **Skills:** Python, R, SQL, C++, Excel, RPA.
